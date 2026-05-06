@@ -5,7 +5,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project predicts **next day stock closing price** using Machine Learning.  
 Three ML models are compared to find the best prediction model.
@@ -14,17 +14,17 @@ Three ML models are compared to find the best prediction model.
 
 ---
 
-## 📊 Results
+##  Results
 
 ![Stock Market Prediction Results](stock_prediction_results.png)
 
 ---
 
-## 🤖 ML Models Used
+##  ML Models Used
 
 | Model | RMSE | R² Score |
 |-------|------|----------|
-| Linear Regression | 38.09 | **0.9753** ✅ |
+| Linear Regression | 38.09 | **0.9753**  |
 | Random Forest | 428.27 | -2.12 |
 | Gradient Boosting | 439.82 | -2.29 |
 
@@ -32,7 +32,7 @@ Three ML models are compared to find the best prediction model.
 
 ---
 
-## 🔧 Features Engineering
+##  Features Engineering
 
 - **Moving Averages** — MA 7, MA 21, MA 50
 - **Technical Indicators** — RSI, Volatility
@@ -42,7 +42,7 @@ Three ML models are compared to find the best prediction model.
 
 ---
 
-## 🔍 Top Features by Importance
+##  Top Features by Importance
 
 1. Open Price → 33.6%
 2. High Price → 20.1%
@@ -52,7 +52,7 @@ Three ML models are compared to find the best prediction model.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Clone the repository
@@ -67,7 +67,7 @@ python stock_prediction.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 stock_market_prediction/
@@ -79,7 +79,7 @@ stock_market_prediction/
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - **Linear Regression** outperformed complex models for this dataset
 - **Open Price** is the most important feature (33.6%)
@@ -88,7 +88,7 @@ stock_market_prediction/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3.8+**
 - **Pandas** — Data manipulation
@@ -98,15 +98,15 @@ stock_market_prediction/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Data Analytics & AI Developer**  
-📍 Delhi, India  
-🔗 Connect on LinkedIn
+ Delhi, India  
+ Connect on LinkedIn
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is for **educational purposes only**.  
 Do not use predictions for actual stock trading decisions.
